@@ -1,0 +1,16 @@
+{
+  "baseMap": {
+    "baseMapLayers": [
+      {
+        "id": "BingMapsRoad",
+        "layerType": "BingMapsRoad",
+        "opacity": 1,
+        "portalUrl": "https://webmaps.maps.arcgis.com/sharing/rest/portals/lVkj5PBOw7tRmIPU",
+        "title": "Bing Maps Road",
+        "type": "BingMapsRoad",
+        "visibility": true
+      }
+    ],
+    "title": "Imagery with Labels"
+  }
+}

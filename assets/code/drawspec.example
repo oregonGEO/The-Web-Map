@@ -1,0 +1,28 @@
+{
+  "drawingInfo": {
+    "labelingInfo": [
+      {
+        "labelExpression": "[Name]",
+        "labelExpressionInfo": {
+          "value": "{Name}"
+        },
+        "labelPlacement": "esriServerLinePlacementCenterAlong",
+        "maxScale": 0,
+        "minScale": 0,
+          "font": {
+            ...
+          },
+        },
+      }
+    ],
+    "renderer": {
+      "symbol": {
+        ...
+        ],
+        "style": "esriSLSSolid",
+        "type": "esriSLS",
+        "width": 6.75
+      },
+    },
+  }
+}

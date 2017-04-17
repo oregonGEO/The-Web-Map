@@ -1,0 +1,27 @@
+{
+  "popupInfo": {
+    "fieldInfos": [
+      {
+        "fieldName": "ID",
+        "format": {
+          "digitSeparator": true,
+          "places": 0
+        },
+        "label": "ID",
+        "stringFieldOption": "textbox",
+        "tooltip": "Identifier",
+        "visible": true
+      },
+      ...
+      "mediaInfos": [
+      {
+        "caption": "For a better idea...",
+        "title": "Chart stats",
+        "type": "barchart",
+        "value": {
+          "fields": [
+            "relationships/0/Pledge"
+          ],
+          "tooltipField": "relationships/2/Official"
+        }
+      }

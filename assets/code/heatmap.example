@@ -1,0 +1,19 @@
+{
+  "renderer": {
+    "blurRadius": 10,
+    "colorStops": [
+      {
+        "color": [
+          133,
+          193,
+          200,
+          0
+        ],
+        "ratio": 0
+      },
+      ...
+    ],
+    "maxPixelIntensity": 1249.2897582229123,
+    "minPixelIntensity": 0,
+    "type": "heatmap"
+  }

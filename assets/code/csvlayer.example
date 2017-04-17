@@ -1,0 +1,14 @@
+...},
+"layerType": "CSV",
+  "locationInfo": {
+    "latitudeFieldName": "latitude",
+    "locationType": "coordinates",
+    "longitudeFieldName": "longitude"
+  },
+  "opacity": 1,
+  "popupInfo": {},
+  "title": "Earthquakes",
+  "type": "CSV",
+  "url": "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_month.csv",
+  "visibility": true
+}

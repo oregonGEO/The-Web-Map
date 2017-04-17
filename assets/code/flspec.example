@@ -1,0 +1,19 @@
+{
+  "id": "DamageAssessment_2445",
+  "layerDefinition": {
+    "definitionExpression": "inspdate BETWEEN timestamp '2015-04-20 04:00:00' AND timestamp '2016-04-21 03:59:59'"
+  },
+  "layerType": "ArcGISFeatureLayer",
+  "mode": 1,
+  "opacity": 1,
+  "popupInfo": {
+    "description": null,
+    "fieldInfos": [],
+    "mediaInfos": [],
+    "showAttachments": true,
+    "title": "Damage to Residential Buildings: {firstname}"
+  },
+  "title": "Feature Service",
+  "url": "http://sampleserver6.arcgisonline.com/arcgis/rest/services/DamageAssessment/FeatureServer/0",
+  "visibility": true
+}

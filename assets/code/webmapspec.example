@@ -1,0 +1,18 @@
+{
+   "authoringApp": "WebMapViewer",
+   "authoringAppVersion": "4.1",
+   "version": "2.4",
+   "baseMap": { ... },
+   "spatialReference": { ... },
+   "operationalLayers": [ {
+       "id":"USGS_Seismic_Data_5353",
+       "layerType":"ArcGISMapServiceLayer",
+       "url":"http://utility.arcgis.com/...",
+       "visibility":true,
+       "opacity":1,
+       "title":"Earthquakes",
+       "itemId":"0d1793bd6b2c438996fd4d3aed46219f",
+       "layers":[ ... ] } ],
+   "bookmarks": [ ... ],
+   "applicationProperties": { ... }
+}

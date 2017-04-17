@@ -1,0 +1,7 @@
+require(["esri/layers/FeatureLayer"], function(FeatureLayer){
+  // points to the states layer in a service storing U.S. census data
+  var citiesLyr = new FeatureLayer({
+    url: "https://sampleserver6.arcgisonline.com/arcgis/rest/services/Census/MapServer/3"
+  });
+  map.add(citiesLyr);  // adds the layer to the map
+});

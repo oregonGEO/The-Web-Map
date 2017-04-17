@@ -1,0 +1,10 @@
+var citiesRenderer = new SimpleRenderer({
+  symbol: new SimpleMarkerSymbol({
+    size: 10,
+    color: "#FF4000",
+    outline: { // autocasts as new SimpleLineSymbol()
+      color: [255, 64, 0, 0.4], // autocasts as new Color()
+      width: 7
+    }
+  })
+});
